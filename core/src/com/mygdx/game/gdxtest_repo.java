@@ -1,4 +1,5 @@
 package com.mygdx.game;
+//COMMENT
 
 import com.badlogic.gdx.ApplicationAdapter;
 import com.badlogic.gdx.Gdx;
